@@ -2,6 +2,7 @@ import React from 'react'
 import { Modal } from 'uikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
+import ExpertModeSetting from './ExpertModeSetting '
 
 type SettingsModalProps = {
   onDismiss?: () => void
@@ -15,6 +16,7 @@ const SettingsModal = ({ onDismiss = defaultOnDismiss }: SettingsModalProps) => 
     <Modal title="Settings" onDismiss={onDismiss}>
       <SlippageToleranceSetting />
       <TransactionDeadlineSetting />
+      <ExpertModeSetting />
     </Modal>
   )
 }
