@@ -1314,10 +1314,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bullswaptoken/sdk-v2@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@bullswaptoken/sdk-v2/-/sdk-v2-2.2.2.tgz#22a34e87129b8d15d8417cfac997892c4074a5d1"
-  integrity sha512-M/d07IpcfH+CeLFw4E2aGerIXyfIWJ5MQCXKXRgBQXkeWL9mBuYYYQCQkezN683RStESCnELmfF1QH9ft3m/Fw==
+"@bullswaptoken/sdk-v2@^2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@bullswaptoken/sdk-v2/-/sdk-v2-2.2.3.tgz#c0fd85ac105ded7fd6614a41f9105feb0969252f"
+  integrity sha512-CRNO/HjRfxNQf4zOYMtFGJBmLeGkKzl6rVqxfTuKfaGneeheTZvV5QuujuzAu1v53FKIyIg1S0kfIsP1hpoy8w==
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"

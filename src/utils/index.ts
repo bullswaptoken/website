@@ -18,7 +18,7 @@ export function isAddress(value: any): string | false {
 }
 
 const ETHERSCAN_PREFIXES: { [chainId in ChainId]: string } = {
-  56: '',
+  56: 'bscscan.com',
   97: 'testnet.bscscan.com',
   6544: 'explorer.catcolor.live'
 }
