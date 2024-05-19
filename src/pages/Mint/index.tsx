@@ -49,7 +49,7 @@ export default function Mint() {
 
     const factory = new ethers.ContractFactory(CatChain, CatChainBytecode.bytecode, signer)
     console.log(factory)
-    const contract = await factory.deploy(Number(supplyToken), nameToken, symbolToken)
+    const contract = await factory.deploy(supplyToken, nameToken, symbolToken)
     alert(`Your token is deployed at ${contract.address}`)
     setLoading(false)
     return true
