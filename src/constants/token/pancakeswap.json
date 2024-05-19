@@ -16,6 +16,14 @@
       "address": "0x39541a42b5085f3cf69b2258eaeb5bb3ee8c823c",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18
     }
+    
   ]
 }
