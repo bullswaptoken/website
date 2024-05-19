@@ -10,6 +10,12 @@
   "logoURI": "/images/coins/wbnb.png",
   "keywords": ["pancake", "default"],
   "tokens": [
-    
+    {
+      "name": "Bull Star Finance",
+      "symbol": "BSF",
+      "address": "0x39541a42b5085f3cf69b2258eaeb5bb3ee8c823c",
+      "chainId": 56,
+      "decimals": 18
+    }
   ]
 }
