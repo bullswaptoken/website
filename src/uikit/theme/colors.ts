@@ -17,15 +17,15 @@ export const brandColors = {
 export const lightColors: Colors = {
   ...baseColors,
   ...brandColors,
-  background: "#FAF9FA",
+  background: "#000",
   backgroundDisabled: "#E9EAEB",
   contrast: "#191326",
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
-  text: "#0d0b85",
+  text: "#144706",
   textDisabled: "#BDC2C4",
-  textSubtle: "#D99137",
+  textSubtle: "#000",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
 };
